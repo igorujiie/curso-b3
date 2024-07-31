@@ -1,4 +1,4 @@
-package ExercicioDeFixacao;
+package LogicaDeProgramacao.ExercicioDeFixacao;
 /*
 Pedrinho trabalha com vendas de carro. Mensalmente, ele recebe um salário fixo mais comissões baseadas em suas vendas.
  As comissões são as seguintes:

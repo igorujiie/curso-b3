@@ -1,4 +1,4 @@
-package Exercicios;
+package LogicaDeProgramacao.Exercicios;
 
 public enum Cor {
     // #FFFF00 - amarelo

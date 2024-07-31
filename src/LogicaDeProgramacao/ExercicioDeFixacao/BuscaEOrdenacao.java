@@ -1,4 +1,4 @@
-package ExercicioDeFixacao;
+package LogicaDeProgramacao.ExercicioDeFixacao;
 
 import java.util.Scanner;
 

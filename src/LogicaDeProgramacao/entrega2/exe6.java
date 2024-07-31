@@ -1,4 +1,4 @@
-package entrega2;
+package LogicaDeProgramacao.entrega2;
 /*
 Maria tem uma frutaria e está com uma promoção para quem comprar mais de 10 frutas (do mesmo item). As frutas com preços
  especiais são: Pera, Laranja, Maçã, Tomate e Caqui.

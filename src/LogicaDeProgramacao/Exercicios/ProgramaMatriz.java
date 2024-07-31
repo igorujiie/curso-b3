@@ -1,4 +1,4 @@
-package Exercicios;
+package LogicaDeProgramacao.Exercicios;
 
 public class ProgramaMatriz {
     public static void main(String[] args) {

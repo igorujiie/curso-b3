@@ -1,4 +1,4 @@
-package Exercicios;
+package LogicaDeProgramacao.Exercicios;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package Exercicios;
+package LogicaDeProgramacao.Exercicios;
 
 public class ProgramaFor {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package entrega2;
+package LogicaDeProgramacao.entrega2;
 
 
 /*
